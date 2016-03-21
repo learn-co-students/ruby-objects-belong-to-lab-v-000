@@ -7,9 +7,7 @@ class Song
 
         end
 
-        def self.artist(artist)
-@artist=artist
-        end
+      
 
 
 
