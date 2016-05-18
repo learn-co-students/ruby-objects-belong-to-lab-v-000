@@ -7,7 +7,8 @@ class Song
   end
 
   def belongs_to
-    @artist = Artist.new
+    artist = Artist.new
+    song.artist = artist
   end
 
 end
