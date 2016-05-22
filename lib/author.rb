@@ -1,9 +1,11 @@
-class Artist
-  attr_accessor :name, :kind
- 
-  def initialize(name, kind) 
+
+class Author
+  attr_accessor :name
+
+  def initialize
     @name = name
-    @kind = kind
   end
+
+
 
 end
