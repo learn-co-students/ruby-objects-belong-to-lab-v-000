@@ -4,3 +4,4 @@ class Author
     @name = name
   end
 end
+#https://repl.it/Fos2/14
