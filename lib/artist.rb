@@ -1,7 +1,5 @@
 class Artist
 
-  def initialize
-    self.name
-  end
+  attr_accessor :name, :title
 
 end
