@@ -1,10 +1,8 @@
-require 'pry'
 class Song
-  attr_accessor :song, :title
+  attr_accessor :artist, :title
 
-  def initialize(song, title)
-    @song = song
-    @title = title  
+  def initialize
+    @title = title
   end
 
 end
