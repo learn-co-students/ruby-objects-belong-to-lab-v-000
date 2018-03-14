@@ -1,13 +1,10 @@
 class Artist
-  attr_accessor :Beyonce
+  attr_accessor :self
+  def ruby
+  song.artist.name
+    # => "Beyonce"
 
-  def initialize Beyonce
-    @name = name
+
+
   end
 end
-
-
-```ruby
-song.artist.name
-  # => "Beyonce"
-```

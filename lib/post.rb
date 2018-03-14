@@ -1,7 +1,6 @@
-class post.author.name
-attr_accessor :Hillary
+d
 
-def initialize(name)
-  @name = name
-end
+class post
+  song.artist.name
+    # => "Beyonce
 end
