@@ -1,6 +1,6 @@
 require "spec_helper"
 
-putsdescribe "Post" do
+puts describe "Post" do
   let!(:post) { Post.new } 
   it "has a title" do
     post.title = "Hello World" 

@@ -5,5 +5,3 @@ class Author
     @song=[]
   end
 end
-
-    
