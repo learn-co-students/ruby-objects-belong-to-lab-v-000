@@ -1,7 +1,6 @@
 # artist.rb
-
 class Artist
-  attr_accessor :name     # Artist should have name attribute
+  attr_accessor :name
 
   def initialize
     @name = name
