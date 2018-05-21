@@ -1,3 +1,10 @@
-def author(author)
-  @author=author
+class Artist
+  attr_accessor :name, :past
+ 
+  def initialize(name, post) 
+    @name = name
+    @genre = genre
+  end
+ 
 end
+ 
