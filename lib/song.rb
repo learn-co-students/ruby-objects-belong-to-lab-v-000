@@ -4,8 +4,8 @@ class Song
 
   def initialize
     @title = title
-    @artist = artist
-    @author = author 
+  #  @artist = artist
+#    @author = author 
   end
 
 end
